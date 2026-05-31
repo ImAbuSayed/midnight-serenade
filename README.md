@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-serenade/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Midnight Serenade](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-serenade/) |
+| **Get License** | [Music Rights & Licensing for Midnight Serenade](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-serenade/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The moonlight is painting the edge of the glade
+> I feel the heat of the promise we made
+> We’re pulling in closer as the shadows fade
+> Lost in the rhythm of our midnight serenade
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
