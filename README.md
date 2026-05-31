@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/midnight-serenade/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Midnight Serenade](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-serenade/) |
+| **Get License** | [License this song: Midnight Serenade](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/midnight-serenade/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `3717c7001781bc46da18dd1cb9eba71b53b01b82793b95af86c034d8d0d8bd6d` |
 | **Timestamp** | May 31, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
